@@ -1,0 +1,9 @@
+;;; Automatically generated on Sun Nov 22 12:25:57 2015
+;;; Invoked by xiaowu@xiaowudeMacBook-Pro.local using 24.5.1
+(setq-default session-file-alist '(("~/.emacs.d/games/snake-scores" 2 233 1 nil nil 80 (overwrite-mode))))
+(setq-default file-name-history '("~/.emacs.d/games/snake-scores"))
+(setq-default command-history '((evil-find-char nil 97) (evil-delete 45 45 (quote exclusive) nil nil) (evil-surround-delete 97) (describe-font "") (evil-delete 45 45 (quote inclusive) nil nil) (evil-set-marker 105) (evil-set-marker 97) (evil-delete 100 101 (quote exclusive) nil nil) (evil-delete 74 75 (quote exclusive) nil nil)))
+(setq-default evil-ex-history '(#("describe-font" 0 1 (ex-index 1) 1 2 (ex-index 2) 2 3 (ex-index 3) 3 4 (ex-index 4) 4 5 (ex-index 5) 5 6 (ex-index 6) 6 7 (ex-index 7) 7 8 (ex-index 8) 8 9 (ex-index 9) 9 10 (ex-index 10) 10 11 (ex-index 11) 11 12 (ex-index 12) 12 13 (ex-index 13)) #("disable-font" 0 1 (ex-index 1) 1 2 (ex-index 2) 2 3 (ex-index 3) 3 4 (ex-index 4) 4 5 (ex-index 5) 5 6 (ex-index 6) 6 7 (ex-index 7) 7 8 (ex-index 8) 8 9 (ex-index 9) 9 10 (ex-index 10) 10 11 (ex-index 11) 11 12 (ex-index 12))))
+(setq-default occur-collect-regexp-history '("\\1"))
+(setq-default serial-name-history '("/dev/ttys0"))
+(setq-default serial-speed-history '("9600" "1200" "2400" "4800" "14400" "19200" "28800" "38400" "57600" "115200"))
